@@ -1,0 +1,17 @@
+.navigation.col-lg-12 {
+    margin-top: 80px;
+}
+
+.jumbotron,
+.form-signin {
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 1px #ccc;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+}
